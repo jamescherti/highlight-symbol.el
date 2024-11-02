@@ -1,4 +1,4 @@
-;;; highlight-symbol.el --- automatic and manual symbol highlighting
+;;; highlight-symbol.el --- automatic and manual symbol highlighting  -*- lexical-binding: t; -*-
 ;;
 ;; Copyright (C) 2007-2009, 2013-2016 Nikolaj Schumacher
 ;;
